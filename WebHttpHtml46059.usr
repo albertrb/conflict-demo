@@ -1,0 +1,56 @@
+[Actions]
+Action=Action.c
+vuser_end=vuser_end.c
+vuser_init=vuser_init.c
+[ActiveReplay]
+ActiveRunName=
+LastReplayedRunName=
+[CfgFiles]
+Default Profile=default.cfg
+[ExtraFiles]
+globals.h=
+[General]
+ActionLogicExt=action_logic
+ActiveTypes=QTWeb
+AdditionalTypes=QTWeb
+DefaultCfg=default.cfg
+Description=
+DevelopTool=Vugen
+DisableRegenerate=0
+GenerateTypes=QTWeb
+GlobalParameterFile=
+LastActiveAction=Action
+LastModifyVer=12.50.0.0
+MajorVersion=12
+MinorVersion=50
+NewFunctionHeader=1
+ParameterFile=
+ParamLeftBrace={
+ParamRightBrace=}
+RunType=cci
+ScriptLanguage=C
+Type=Multi
+[Interpreters]
+Action=cci
+vuser_end=cci
+vuser_init=cci
+[Modified Actions]
+Action=0
+vuser_end=0
+vuser_init=0
+[Recorded Actions]
+Action=0
+vuser_end=0
+vuser_init=0
+[Replayed Actions]
+Action=0
+vuser_end=0
+vuser_init=0
+[RunLogicFiles]
+Default Profile=default.usp
+[StateManagement]
+LastReplayStatus=0
+[TransactionsOrder]
+Order=
+[VuserProfiles]
+Profiles=Default Profile
